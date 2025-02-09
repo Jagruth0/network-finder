@@ -1,8 +1,10 @@
 ## .env variables
-
-`SESSION_SECRET`  
+```
+SESSION_SECRET
+```  
 #### Postgres:
-```PG_USER
+```
+PG_USER
 PG_HOST
 PG_DATABASE
 PG_PASSWORD
@@ -15,7 +17,9 @@ GOOGLE_CLIENT_SECRET
 ```
 
 ### Gemini:
-`GEMINI_API_KEY`
+```
+GEMINI_API_KEY
+```
 
 ### Admin mail:
 ```
