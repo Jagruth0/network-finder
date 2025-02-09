@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    color: aliceblue;
+}
+.login-g, .body-text{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.body-text a{
+    margin-top: 20px;
+}
+
+form input{
+    margin-top: 10px;
+    margin-left: 45%;
+}
